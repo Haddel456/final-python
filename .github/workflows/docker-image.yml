@@ -26,4 +26,5 @@ jobs:
 
     - name: Push Docker image
       run: docker push adelmh/python-docker-pipeline:latest
+      
 
